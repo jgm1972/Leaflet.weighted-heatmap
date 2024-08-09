@@ -46,5 +46,5 @@ Leaflet.weighted-heatmap is free software, and may be redistributed under the [M
  [Leaflet.heat plugin]: https://github.com/Leaflet/Leaflet.heat
  [KNN nearest neighbors function]: https://github.com/darkskyapp/sphere-knn
  [Browserify]: https://github.com/browserify/browserify
- [Leaflet.weighted-heatmap]: http://opsauto/aerosat_test_maeve/maeve.html
+ [Leaflet.weighted-heatmap]: 
  [MIT License]: https://spdx.org/licenses/MIT.html
