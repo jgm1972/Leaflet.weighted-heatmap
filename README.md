@@ -1,7 +1,7 @@
 Leaflet.weighted-heatmap
 ===============
 
-Leaflet.iweighted-heatmap is a simple and fast heatmap plugin for [Leaflet][]. It is largely based on this [Leaflet inverse distance weighting plugin][]. This plugin is modified due to encountering numerous problems with current Leaflet heatmap plugins when trying to make a weighted heatmap based solely on value and not density.  The [Leaflet.heat plugin][] is also used. Additionally, a custom quadtree and [KNN nearest neighbors function][] is utilized in an attempt to optimize performance.  It is included in the bundle.js script created with [Browserify][].
+Leaflet.weighted-heatmap is a simple and fast heatmap plugin for [Leaflet][]. It is largely based on this [Leaflet inverse distance weighting plugin][]. This plugin is modified due to encountering numerous problems with current Leaflet heatmap plugins when trying to make a weighted heatmap based solely on value and not density.  The [Leaflet.heat plugin][] is also used. Additionally, a custom quadtree and [KNN nearest neighbors function][] is utilized in an attempt to optimize performance.  It is included in the bundle.js script created with [Browserify][].
 
 
 ## Usage
