@@ -1,8 +1,8 @@
 Leaflet.weighted-heatmap
 ===============
 
-Leaflet.weighted-heatmap is a simple and fast heatmap plugin for [Leaflet] (https://leafletjs.com/). It is largely based on this [Leaflet inverse distance weighting plugin] (https://github.com/spatialsparks/Leaflet.idw). This plugin is modified due to encountering numerous problems with current Leaflet heatmap plugins when trying to make a weighted heatmap based solely on value and not density.  The [Leaflet.heat plugin] (https://github.com/Leaflet/Leaflet.heat) is also used. Additionally, a custom quadtree and [KNN nearest neighbors function] (https://github.com/darkskyapp/sphere-knn) is utilized in an attempt to optimize performance.  It is included in the bundle.js script created with [Browserify] (https://github.com/browserify/browserify).
-This is a fork of (https://github.com/smithmaeve/Leaflet.weighted-heatmap) created solely to host a demo of Maeve's work.
+Leaflet.weighted-heatmap is a simple and fast heatmap plugin for [Leaflet](https://leafletjs.com/). It is largely based on this [Leaflet inverse distance weighting plugin](https://github.com/spatialsparks/Leaflet.idw). This plugin is modified due to encountering numerous problems with current Leaflet heatmap plugins when trying to make a weighted heatmap based solely on value and not density.  The [Leaflet.heat plugin](https://github.com/Leaflet/Leaflet.heat) is also used. Additionally, a custom quadtree and [KNN nearest neighbors function](https://github.com/darkskyapp/sphere-knn) is utilized in an attempt to optimize performance.  It is included in the bundle.js script created with [Browserify](https://github.com/browserify/browserify).
+This fork of [Maeve Smith's repository](https://github.com/smithmaeve/Leaflet.weighted-heatmap) was created solely to host a demo of her work.
 
 
 ## Usage
@@ -34,18 +34,18 @@ Include `idw.js` from the src folder, then create a heatmap by calling
 
 ## Demos
 
-See [Leaflet.weighted-heatmap](https://jgm1972.github.io/)in action (Click on Heatmap Layer, select location, and hit filter):
+See [Leaflet.weighted-heatmap](https://jgm1972.github.io/) in action (Click on Heatmap Layer, select location, and hit filter):
 
 
 ## License
 
-Leaflet.weighted-heatmap is free software, and may be redistributed under the [MIT License] https://jgm1972.github.io/.
+Leaflet.weighted-heatmap is free software, and may be redistributed under the [MIT License](https://jgm1972.github.io/).
 
 
- [Leaflet]: (https://github.com/Leaflet/Leaflet)
- [Leaflet inverse distance weighting plugin]: (https://github.com/spatialsparks/Leaflet.idw)
- [Leaflet.heat plugin]: (https://github.com/Leaflet/Leaflet.heat)
- [KNN nearest neighbors function]: (https://github.com/darkskyapp/sphere-knn)
- [Browserify]: (https://github.com/browserify/browserify)
- [Leaflet.weighted-heatmap]: (https://github.com/smithmaeve/Leaflet.weighted-heatmap)
- [MIT License]: (https://spdx.org/licenses/MIT.html)
+ [Leaflet](https://github.com/Leaflet/Leaflet)
+ [Leaflet inverse distance weighting plugin](https://github.com/spatialsparks/Leaflet.idw)
+ [Leaflet.heat plugin](https://github.com/Leaflet/Leaflet.heat)
+ [KNN nearest neighbors function](https://github.com/darkskyapp/sphere-knn)
+ [Browserify](https://github.com/browserify/browserify)
+ [Leaflet.weighted-heatmap](https://github.com/smithmaeve/Leaflet.weighted-heatmap)
+ [MIT License](https://spdx.org/licenses/MIT.html)
