@@ -34,12 +34,12 @@ Include `idw.js` from the src folder, then create a heatmap by calling
 
 ## Demos
 
-See [Leaflet.weighted-heatmap] (https://jgm1972.github.io/)in action (Click on Heatmap Layer, select location, and hit filter):
+See [Leaflet.weighted-heatmap](https://jgm1972.github.io/)in action (Click on Heatmap Layer, select location, and hit filter):
 
 
 ## License
 
-Leaflet.weighted-heatmap is free software, and may be redistributed under the [MIT License]https://jgm1972.github.io/.
+Leaflet.weighted-heatmap is free software, and may be redistributed under the [MIT License] https://jgm1972.github.io/.
 
 
  [Leaflet]: (https://github.com/Leaflet/Leaflet)
